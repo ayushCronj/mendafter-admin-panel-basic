@@ -1,0 +1,24 @@
+@import "~antd/dist/antd.css";
+
+.app_header {
+  width: 100%;
+  position: fixed;
+  z-index: 1;
+}
+
+.app_sider {
+  /* height: 100vh; */
+  background: black;
+  /* position: fixed; */
+  color: white;
+  text-align: center;
+}
+
+.app_content {
+  text-align: center;
+}
+
+.app_footer {
+  background-color: #001529;
+  color: whitesmoke;
+}

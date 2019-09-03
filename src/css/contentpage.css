@@ -1,0 +1,6 @@
+@import "~antd/dist/antd.css";
+
+.contentpage_col {
+  height: 200px;
+  border: 1px solid black;
+}

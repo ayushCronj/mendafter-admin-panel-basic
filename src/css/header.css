@@ -1,0 +1,24 @@
+@import "~antd/dist/antd.css";
+
+.header_menu {
+  line-height: 64px;
+}
+
+.header_search {
+  width: 250px;
+  padding-top: 4%;
+}
+
+.header_menuitem {
+  float: right;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.header_icon {
+  font-size: 20px !important;
+  color: white;
+}
